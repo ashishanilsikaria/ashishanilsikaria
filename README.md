@@ -1,7 +1,7 @@
 <h1 align="center"> Ashish Anil Sikaria </h1>
 <p align="center" float="left">
-<img align="left" src="https://komarev.com/ghpvc/?username=ashishanilsikaria&label=Profile%20views&color=2a17d1" alt="ashishanilsikaria"/>
-<img align="right" src="https://img.shields.io/github/followers/ashishanilsikaria?color=2a17d1&label=Followers" alt="ashishanilsikaria" /> 
+<!-- <img align="left" src="https://komarev.com/ghpvc/?username=ashishanilsikaria&label=Profile%20views&color=2a17d1" alt="ashishanilsikaria"/> -->
+<!-- <img align="right" src="https://img.shields.io/github/followers/ashishanilsikaria?color=2a17d1&label=Followers" alt="ashishanilsikaria" />  -->
 </p>
 
 <p align="center" float="left">
