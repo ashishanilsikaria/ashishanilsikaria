@@ -10,6 +10,7 @@
   </a>
 </p>
 <br>
+
 <h2 align="left">👨🏻‍💻 About Me: </h2>
     
 - Passionate about cybersecurity, automation, and building robust solutions.
@@ -20,6 +21,20 @@
 - Love Linux and Windows (WSL is a daily driver).
 - Always open to collaborating on exciting tech projects.
 - When not coding, you’ll find me exploring new security tools or at the gym!
+
+---
+
+<h2 align="left">🚀 Quick Facts</h2>
+
+- 🔭 I’m currently working on a browser extension to enhance my college's website (VIT Website Enhancement) using TypeScript and HTML/CSS.
+- 🌱 I’m currently learning advanced penetration testing, digital forensics, and web automation.
+- 👯 I’m looking to collaborate on cybersecurity projects, CTFs, and open-source tools.
+- 💬 Ask me about CTFs, Python scripting, React/Next.js, or cybersecurity tools.
+- 📫 How to reach me: ashishanilsikaria@gmail.com or [linkedin](https://linkedin.com/in/ashish-anil-sikaria)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love solving CTF challenges and have completed over 120 security labs and puzzles across various platforms!
+
+---
 
 <h2 align="left">🛠️ What I frequently use:</h2>
 <div align="center">
@@ -47,6 +62,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nmap" height="40" alt="nmap logo"  />
 </div>
+
+---
 
 <h2>🤝 Connect with me</h2>
   
