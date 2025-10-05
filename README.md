@@ -10,7 +10,7 @@
   </a>
 </p>
 <br>
-<h2 align="left">👨🏻‍💻 About Me: </h2>
+<h2 align="left">About Me: </h2>
     
 - Passionate about cybersecurity, automation, and building robust solutions.
 - <ins>Security Enthusiast</ins>: Top 4% on TryHackMe, active CTF participant (picoCTF, 65+ challenges solved).
@@ -19,7 +19,7 @@
 - Always open to collaborating on exciting tech projects.
 - When not coding, you’ll find me sleeping!
 
-<h2 align="left">🛠️ What I frequently use:</h2>
+<h2 align="left">What I frequently use:</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript logo" />
   <img width="12" />
@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
 </div>
 
-<h2>🤝 Connect with me</h2>
+<h2>Connect with me</h2>
   
 <a href="https://www.linkedin.com/in/ashish-anil-sikaria/" target="_blank">
     <img src="https://img.shields.io/badge/ashish--anil--sikaria-blue?logo=linkedin" alt="Linkedin">
