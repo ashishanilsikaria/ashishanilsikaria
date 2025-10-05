@@ -13,8 +13,8 @@
 <h2 align="left">About Me: </h2>
     
 - Passionate about cybersecurity, automation, and building robust solutions.
-- <ins>Security Enthusiast</ins>: Top 4% on TryHackMe, active CTF participant (picoCTF, 65+ challenges solved).
-- Constantly improving <ins>frontend and backend</ins> with React, Next.js, TypeScript, and Express.
+- Security Enthusiast: Top 4% on TryHackMe, active CTF participant (picoCTF, 65+ challenges solved).
+- Constantly improving frontend and backend with React, Next.js, TypeScript, and Express.
 - Love Linux and Windows (WSL is a daily driver).
 - Always open to collaborating on exciting tech projects.
 - When not coding, you’ll find me sleeping!
