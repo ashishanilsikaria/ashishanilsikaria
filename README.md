@@ -11,12 +11,13 @@
 </p>
 <br>
 <h2 align="left">About Me: </h2>
-    
+
+- Currently exploring microservices architecture and orchestration.
 - Passionate about cybersecurity, automation, and building robust solutions.
+- Continuously improving frontend and backend skills with React, Next.js, TypeScript, and Express.
 - Security Enthusiast: Top 4% on TryHackMe, active CTF participant (picoCTF, 65+ challenges solved).
-- Constantly improving frontend and backend with React, Next.js, TypeScript, and Express.
-- Love Linux and Windows (WSL is a daily driver).
-- Always open to collaborating on exciting tech projects.
+- Enthusiastic about Linux and Windows (WSL is my daily driver).
+- Open to collaborating on exciting tech projects (always if you have something that interests me).
 - When not coding, you’ll find me sleeping!
 
 <h2 align="left">What I frequently use:</h2>
