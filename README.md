@@ -14,9 +14,7 @@
     
 - Passionate about cybersecurity, automation, and building robust solutions.
 - <ins>Security Enthusiast</ins>: Top 4% on TryHackMe, active CTF participant (picoCTF, 65+ challenges solved).
-- <ins>Web Reconnaissance Automation</ins> and scripting with Python.
-- Experienced in <ins>frontend and backend</ins> with React, Next.js, TypeScript, and Python.
-- Enjoys tackling complex problems, including data obfuscation and digital forensics.
+- Constantly improving <ins>frontend and backend</ins> with React, Next.js, TypeScript, and Express.
 - Love Linux and Windows (WSL is a daily driver).
 - Always open to collaborating on exciting tech projects.
 - When not coding, you’ll find me sleeping!
